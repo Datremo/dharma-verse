@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #020202; /* Deep void black */
+  margin: 0;
+  overflow: hidden; /* Stops accidental scrolling during the intro */
+}
